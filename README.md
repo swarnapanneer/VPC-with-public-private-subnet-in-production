@@ -52,8 +52,3 @@ Server 2 Output:
 My Second AWS Project to Demonstrate apps in private subnet
 
 By implementing this project, I gained hands-on experience in setting up a secure VPC with EC2 instances, implemented networking and routing, configured security groups and IAM roles, and ensured proper access control. This project provided a practical understanding of how these AWS services work together to create a secure and scalable infrastructure for applications.
-
-
-- Private subnet architecture
-- Secure access using Bastion host
-- Load balancing with ALB
